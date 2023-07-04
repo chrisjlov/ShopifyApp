@@ -23,6 +23,8 @@ python main.py
 ```sh
 python tests.py
 ```
+## Designs Folder
+> This folder will contain the design's orginal images. They must be pngs and the png file name should be the product id. This allows the code to identify the product with the design.
 
 ## Author
 
